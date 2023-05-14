@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/colour-search/static/css/main.5537f60c.css",
+    "main.js": "/colour-search/static/js/main.d16dded7.js",
+    "index.html": "/colour-search/index.html",
+    "main.5537f60c.css.map": "/colour-search/static/css/main.5537f60c.css.map",
+    "main.d16dded7.js.map": "/colour-search/static/js/main.d16dded7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5537f60c.css",
+    "static/js/main.d16dded7.js"
+  ]
+}
